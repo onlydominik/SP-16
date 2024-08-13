@@ -59,6 +59,11 @@ h6 {
 body {
   font-family: var(--ff-main);
   font-size: 100%;
+  background-image: image-set(
+    "/images/bg-header-mobile.png" 1x,
+    "/images/bg-header-desktop.png" 2x
+  );
+  background-repeat: no-repeat;
 }
 
 #logo {
