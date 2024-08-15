@@ -222,7 +222,7 @@ footer {
   gap: var(--spacing-500);
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1000px) {
   body {
     background: no-repeat top right url(../images/bg-header-desktop.png);
   }
